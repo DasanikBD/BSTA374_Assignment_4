@@ -854,7 +854,7 @@ Answer:
 sessionInfo()
 ```
 
-##AI Use Note##
+### AI Use Note
 
 I used ChatGPT to identify the troubleshoot errors, and understand the
 analysis methods. It also helped interpret my outputs and draft
